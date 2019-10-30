@@ -1,0 +1,9 @@
+C:\Users\gizem\source\repos\MatchingPairGame\bin\Debug\MatchingPairGame.exe.config
+C:\Users\gizem\source\repos\MatchingPairGame\bin\Debug\MatchingPairGame.exe
+C:\Users\gizem\source\repos\MatchingPairGame\bin\Debug\MatchingPairGame.pdb
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.csprojAssemblyReference.cache
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.Form1.resources
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.Properties.Resources.resources
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.GenerateResource.cache
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.exe
+C:\Users\gizem\source\repos\MatchingPairGame\obj\Debug\MatchingPairGame.pdb
